@@ -5,3 +5,4 @@ This is a team repo for members of the team {Team ID}
 * [Jane Doe](members/janeDoe.md)
 * [John Doe](members/johnDoe.md)
 * [Joshua Ng](members/joshuaNg.md)
+* [Lim Zeng Hou](members/zengHou.md)
